@@ -1,0 +1,7 @@
+forex_api_key: 3d33cd1c14-57f53c3d8d-seejr9
+listen_port: :3000
+database_name: postgres
+database_port: 5432
+database_user: postgres
+database_password: admin
+database_host: localhost
